@@ -8,7 +8,7 @@ Topics such as: lists, dictionaries, copy, tuples, sets and their methods are di
 Topics such as: Logical Operators, for loop and while loop, range, enumerate, break, continue and pass, and functions are discussed. Also, a fewer simple exercises are validated.
 
 ## 3. regular expressions
-
+In this tutorial, you’ll explore regular expressions, also known as regexes, in Python. A regex is a special sequence of characters that defines a pattern for complex string-matching functionality.
 ## 4. file input and output
 
 ## 5. advance generators
