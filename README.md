@@ -10,7 +10,7 @@ Topics such as: Logical Operators, for loop and while loop, range, enumerate, br
 ## 3. regular expressions
 In this tutorial, you’ll explore regular expressions, also known as regexes, in Python. A regex is a special sequence of characters that defines a pattern for complex string-matching functionality.
 ## 4. file input and output
-
+This section deal with file writing and reading. The exercise used convert english into japanese
 ## 5. advance generators
 
 ## 6. decorators
